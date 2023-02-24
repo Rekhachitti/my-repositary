@@ -1,2 +1,2 @@
 print("hello divya...");
-print("welcome to the world");
+print("welcome");
